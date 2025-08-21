@@ -41,7 +41,7 @@ export class HTML extends Formatter<string> {
             }
             </style>
             <div id="spread-diff-patch-data" data-raw-diffAOA='${escapeHTML(JSON.stringify(patchedAOA))}'></div>
-            <script src="https://unpkg.com/canvas-datagrid"></script>
+            <script src="https://cdn.jsdelivr.net/npm/ag-grid-community@34.1.2/dist/ag-grid-community.min.js"></script>
             <script>
                 ${script}
             </script>

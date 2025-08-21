@@ -1,6 +1,6 @@
 {
   "name": "spread-diff-patch",
-  "version": "1.2.2",
+  "version": "1.2.5",
   "description": "Diff & patch SpreadSheet files",
   "main": "./lib/index.js",
   "module": "./lib/index.mjs",
@@ -14,14 +14,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dev-DTECH/spread-diff-patch.git"
+    "url": "git+https://github.com/dtech-labs/spread-diff-patch.git"
   },
   "author": "DTech",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/dev-DTECH/spread-diff-patch/issues"
+    "url": "https://github.com/dtech-labs/spread-diff-patch/issues"
   },
-  "homepage": "https://github.com/dev-DTECH/spread-diff-patch#readme",
+  "homepage": "https://github.com/dtech-labs/spread-diff-patch#readme",
   "keywords": [
     "csv",
     "html",
